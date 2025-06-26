@@ -23,7 +23,7 @@
 ## 🧠 Technologies I Use
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=unity,cs,c,cpp,java,javascript,typescript,html,css,tailwind,react,nextjs,nodejs,python,mysql,postgres,mongodb,firebase,git,github,figma,canva,vercel,aws,docker,vscode,arduino&perline=10" />
+  <img src="https://skillicons.dev/icons?i=unity,cs,c,cpp,java,javascript,typescript,html,css,tailwind,react,mysql,git,github,figma,canva,vercel,vscode" />
 </p>
 
 ---
