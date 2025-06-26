@@ -33,7 +33,29 @@
 
 ---
 
-🔧 Skills 
+🔧 Skills
+
+<table style="border: none;">
+  <tr>
+    <td style="border: none; padding-right: 12px; vertical-align: top;">
+      🎮 <strong>Unity</strong>
+    </td>
+    <td style="border: none;">
+      <ul style="margin-top: 0; padding-left: 20px;">
+        <li><strong>Core:</strong> C#, MonoBehaviour, ScriptableObject, Events</li>
+        <li><strong>Gameplay:</strong> Prefab, Scene Management</li>
+        <li><strong>Animation & Physics:</strong> Animator, Rigidbody, Colliders, NavMesh</li>
+        <li><strong>UI & UX:</strong> Canvas, UI Toolkit, TextMeshPro, Responsive UI</li>
+        <li><strong>Cinematics & Tools:</strong> Timeline, Cinemachine</li>
+        <li><strong>Graphics & Performance:</strong> URP, Shader Graph</li>
+        <li><strong>Workflow:</strong> Git, Build Settings, Unity Package Manager</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+
+
 
   📚 Documentation: Notion
   
