@@ -53,20 +53,7 @@
 
 ---
 
-## ✍️ Random Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
-</p>
 
----
 
-## 😂 Random Meme
-<p align="center">
-  <img src="https://random-memer.herokuapp.com/" width="512"/>
-</p>
 
----
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Duy-kz&icon=0&color=0"/>
-</p>
