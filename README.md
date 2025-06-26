@@ -10,20 +10,40 @@
 ---
 
 ## 🧑‍🎓 About Me
-- 🎓 I'm a 3rd-year student at FPT University, Ho Chi Minh City
-- 💼 Passionate about Unity game development and full-stack web technologies
-- 🌱 Currently learning: AI for Games, ECS architecture in Unity, and Firebase for mobile apps
-- 🧩 Favorite tech topics: gameplay systems, UI/UX, database integration
-- ✨ I love building: horror games, 2D RPGs, and study productivity apps
+- 🎓 I'm a 3rd-year student at FPT University, Ho Chi Minh City  
+- 💼 Passionate about Unity game development  
+- 🌱 Currently learning: AI for Games, ECS architecture in Unity 
+- 🧩 Favorite tech topics: gameplay systems, UI/UX, database integration  
+- ✨ I love building: horror games, 2D/3D RPGs, MMORPG 
 
 ---
 
-## 🛠 Tech Stack
+🌐 My Interests
 
-## 🧠 Technologies I Use
+  🎮 Unity Game Development
+  
+  🤖 Learning new technology
+
+---
+
+🔧 Skills 
+
+  📚 Documentation: Notion
+  
+  ⚙️ Frameworks: React
+  
+  🛢️ Databases: SQL Server
+  
+  💻 Programming Languages: C, C#, Java, HTML, CSS3, TypeScript, JavaScript
+  
+  🎨 Design Tools: Canvas, Figma, Davince Reresolve
+
+---
+
+## 🧠 Technologies I Use (Quick View)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=unity,cs,c,cpp,java,javascript,typescript,html,css,tailwind,react,mysql,git,github,figma,canva,vercel,vscode" />
+  <img src="https://skillicons.dev/icons?i=unity,cs,c,java,js,ts,html,css,tailwind,react,github,figma,vercel,vscode,visualstudio" />
 </p>
 
 ---
@@ -31,9 +51,10 @@
 ## 🔥 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Duy-kz&theme=radical&show_icons=true" />
-  <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Duy-kz&theme=radical" />
-  <br/>
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duy-kz&layout=compact&theme=radical"/>
 </p>
 
@@ -47,13 +68,7 @@
 ---
 
 ## 📌 Featured Projects
-- 🧠 **StudyMate**: A mobile app for students to manage learning tasks, built with Flutter + Firebase  
-- 🧪 **3D Chemistry Lab**: Unity project allowing students to simulate chemistry experiments  
-- 🎮 **RPG – Rebirth of Elaria**: Fantasy game with dialogue system, skill tree, and story progression  
+- 🧠 **Fertility Care**: IVF IUI infertility treatment management website  
+- 🎮 **Horror Game**: Horror game with puzzle theme to escape adversity 
 
 ---
-
-
-
-
-
