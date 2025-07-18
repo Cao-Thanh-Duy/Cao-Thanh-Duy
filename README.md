@@ -27,7 +27,7 @@
 
 🌐 My Interests
 
-  🎮 Unity Game Development
+  🎮 Game Development
   
   🤖 Learning new technology
 
