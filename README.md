@@ -1,5 +1,5 @@
 
-
+<h1 align="center">Hi 👋, I'm Cao Thanh Duy</h1>
 <h3 align="center">🎮 Game Developer | 💻 Software Engineering Student | 🧠 Lifelong Learner</h3>
 
 <p align="center">
