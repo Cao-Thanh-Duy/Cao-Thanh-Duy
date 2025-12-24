@@ -80,19 +80,19 @@
 
 ## 🔥 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Duy-kz&theme=radical&show_icons=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Duy-kz&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Cao-Thanh-Duy&theme=radical&show_icons=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Cao-Thanh-Duy&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duy-kz&layout=compact&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cao-Thanh-Duy&layout=compact&theme=radical"/>
 </p>
 
 ---
 
 ## 🏆 Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Duy-kz&theme=radical&margin-w=10&no-bg=true&no-frame=true"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Cao-Thanh-Duy&theme=radical&margin-w=10&no-bg=true&no-frame=true"/>
 </p>
 
 ---
