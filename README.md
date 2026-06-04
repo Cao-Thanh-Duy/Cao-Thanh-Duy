@@ -78,20 +78,6 @@
 
 ---
 
----
-
-## 📌 Featured Projects
-- 🧠 **Fertility Care**: IVF IUI infertility treatment management website  
-- 🎮 **Horror Game**: Horror game with puzzle theme to escape adversity 
-- 🎮 **Simulation Airport Veh🧑‍🎓 About Me
-- 🎓 I'm a 3rd-year student at FPT University, Ho Chi Minh City  
-- 💼 Passionate about Unity game development  
-- 🌱 Currently learning: AI for Games, ECS architecture in Unity 
-- 🧩 Favorite tech topics: gameplay systems, UI/UX, database integration  
-- ✨ I love building: horror games, 2D/3D RPGs, MMORPG 
-
----
-
 🌐 My Interests
 
   🎮 Game Development
