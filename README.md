@@ -22,7 +22,7 @@
 - 💼 Passionate about Unity game development  
 - 🌱 Currently learning: AI for Games, ECS architecture in Unity 
 - 🧩 Favorite tech topics: gameplay systems, UI/UX, database integration  
-- ✨ I love building: horror games, 2D/3D RPGs, MMORPG 
+- ✨ I love building: Horror games, 2D/3D RPGs, MMORPG, Co-op Expedition 
 
 ---
 
