@@ -186,6 +186,12 @@ An IVF / IUI infertility treatment management website.
 ## 🎯 My Goal
 
 I want to become a game developer who can build complete game systems, not only gameplay mechanics but also networking, backend, tools, UI/UX, and production pipelines.
+---
+<h2 align="center">🐍 My Contribution Snake</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Cao-Thanh-Duy/Cao-Thanh-Duy/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
 
 My main focus is to keep improving **Raiders Of Horizons** and develop it into a polished co-op indie game with a strong identity, deep gameplay loop, and memorable fantasy world.
 
